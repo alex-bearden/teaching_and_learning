@@ -117,7 +117,7 @@ def partition(nums, low, high):
     p = high - 1 # Reset the partition index to the end.
     first_high = low
     for i in range(low, high - 1):
-        if i != p and nums[i] < nums[p]:
+        if nums[i] < nums[p]:
             nums[i], nums[first_high] = nums[first_high], nums[i]
             first_high += 1
     nums[p], nums[first_high] = nums[first_high], nums[p]
