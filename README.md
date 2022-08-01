@@ -7,4 +7,4 @@ This repo has Jupyter notebooks containing the following:
 - My attempt at the popular Kaggle Titanic competition.
 - A implementation of an exercise from **The Elements of Statistical Learning** involving computing a Bayes optimal decision boundary for data generated from mixtures of multinomial normal distributions.
 - My solution to a toxic post-flagging problem, using the data from https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data.
-- Python implementations of mergesort, heapsort, and quicksort.
+- [Python implementations of mergesort, heapsort, and quicksort.]([url](https://github.com/alex-bearden/teaching_and_learning/blob/main/sorting_algs.py))
