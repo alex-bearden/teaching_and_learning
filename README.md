@@ -8,3 +8,4 @@ This repo has Jupyter notebooks containing the following:
 - [An implementation of an exercise from **The Elements of Statistical Learning** involving computing a Bayes optimal decision boundary for data generated from mixtures of multinomial normal distributions.](https://github.com/alex-bearden/teaching_and_learning/blob/main/ESL_Ch2_Exercises.ipynb)
 - [My solution to a toxic post classification problem](https://github.com/alex-bearden/teaching_and_learning/blob/main/post_flagging_bow.ipynb), using the data from https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data.
 - [Python implementations of mergesort, heapsort, and quicksort.](https://github.com/alex-bearden/teaching_and_learning/blob/main/sorting_algs.py)
+- [Some tinkering around with text clustering/topic modeling.](https://github.com/alex-bearden/teaching_and_learning/blob/main/text_clustering.ipynb)
